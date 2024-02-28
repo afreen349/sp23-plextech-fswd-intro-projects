@@ -3,3 +3,6 @@ def foo(x):
         print("Foo")
     else:
         print("Bar")
+
+
+foo(3)
